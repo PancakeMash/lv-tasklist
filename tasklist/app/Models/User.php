@@ -1,5 +1,18 @@
 <?php
 
+/*
+
+Models - php classes that represent DB tables
+e.g. Users class links to user table in DB.
+
+Can create a row in the table using model create method.
+Can grab all rows in a table using the all method.
+
+*/
+
+
+
+
 namespace App\Models;
 
 // use Illuminate\Contracts\Auth\MustVerifyEmail;
